@@ -56,21 +56,21 @@ This project is a **Job Listing & Job Application Portal**, where:
 
 ## 🖼️ Screenshots
 
-| Page | Screenshot |
-|------|------------|
-| Job Portal Dashboard | ![](myNewFolder/1.png) |
-| Latest jobs and Filters | ![](myNewFolder/2.png) |
-| Footer | ![](myNewFolder/3.png) |
-| Sign In With Clerk | ![](myNewFolder/4.png) |
-| Logged In | ![](myNewFolder/5.png) |
-| Apply Job Page | ![](myNewFolder/6.png) |
-|Applied to Job | ![](myNewFolder/7.png) |
-| All Applied Jobs and Option to Upload Resume | ![](myNewFolder/8.png) |
-| Recruiter Login | ![](myNewFolder/9.png) |
-| Application Management Page | ![](myNewFolder/10.png) |
-| Job Posting Page | ![](myNewFolder/11.png) |
-| View Applications Page | ![](myNewFolder/12.png) |
 
+| **Page** | **Screenshot** |
+|----------|----------------|
+| **Job Portal Dashboard** | ![](myNewFolder/1.png) |
+| **Latest Jobs and Filters** | ![](myNewFolder/2.png) |
+| **Footer** | ![](myNewFolder/3.png) |
+| **Sign In With Clerk** | ![](myNewFolder/4.png) |
+| **Logged In** | ![](myNewFolder/5.png) |
+| **Apply Job Page** | ![](myNewFolder/6.png) |
+| **Applied to Job** | ![](myNewFolder/7.png) |
+| **All Applied Jobs and Option to Upload Resume** | ![](myNewFolder/8.png) |
+| **Recruiter Login** | ![](myNewFolder/9.png) |
+| **Application Management Page** | ![](myNewFolder/10.png) |
+| **Job Posting Page** | ![](myNewFolder/11.png) |
+| **View Applications Page** | ![](myNewFolder/12.png) |
 ---
 
 
