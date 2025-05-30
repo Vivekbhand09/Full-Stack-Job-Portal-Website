@@ -58,18 +58,20 @@ This project is a **Job Listing & Job Application Portal**, where:
 
 | Page | Screenshot |
 |------|------------|
-| Home Page | ![](myNewFolder/1.png) |
-| Sign Up Page | ![](myNewFolder/2.png) |
-| Login Page | ![](myNewFolder/3.png) |
-| Job Listings | ![](myNewFolder/4.png) |
-| Job Detail View | ![](myNewFolder/5.png) |
+| Job Portal Dashboard | ![](myNewFolder/1.png) |
+| Latest jobs and Filters | ![](myNewFolder/2.png) |
+| Footer | ![](myNewFolder/3.png) |
+| Sign In With Clerk | ![](myNewFolder/4.png) |
+| Logged In | ![](myNewFolder/5.png) |
 | Apply Job Page | ![](myNewFolder/6.png) |
-| Resume Upload | ![](myNewFolder/7.png) |
-| User Profile Page | ![](myNewFolder/8.png) |
-| Recruiter Dashboard | ![](myNewFolder/9.png) |
-| Job Posting Page | ![](myNewFolder/10.png) |
-| Application Management | ![](myNewFolder/11.png) |
-| View Resumes | ![](myNewFolder/12.png) |
+|Applied to Job | ![](myNewFolder/7.png) |
+| All Applied Jobs and Option to Upload Resume | ![](myNewFolder/8.png) |
+| Recruiter Login | ![](myNewFolder/9.png) |
+| Application Management Page | ![](myNewFolder/10.png) |
+| Job Posting Page | ![](myNewFolder/11.png) |
+| View Applications Page | ![](myNewFolder/12.png) |
 
 ---
 
+
+👉 **To see more features, visit the live website**
