@@ -1,6 +1,6 @@
 # 🧑‍💼 Full Stack Job Portal Web Application
 
-🚧 **Currently Under Development**  
+
 This is a full-fledged Job Portal Web Application built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), aimed at connecting job seekers with recruiters efficiently. The platform is designed to provide seamless job searching, application tracking, and job management functionalities for both users and recruiters.
 
 ---
@@ -55,10 +55,4 @@ This project is a **Job Listing & Job Application Portal**, where:
 
 
 ---
-
-
-## 📢 Note
-
-This is an active work-in-progress project. Code will be pushed module-by-module, and this README will be regularly updated to reflect the development progress.  
-Stay tuned for the demo link and detailed documentation once deployed!
 
